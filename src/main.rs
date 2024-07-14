@@ -1,4 +1,8 @@
 mod mesh;
 mod point;
 
-fn main() {}
+use crate::mesh::Mesh;
+
+fn main() {
+    let mesh = Mesh::new();
+}
