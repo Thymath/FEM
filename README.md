@@ -14,3 +14,12 @@ This library will be able to calculate solutions for solving the finite element 
 - Triangularization of a non-regular polygon.
 - Mesh refinement by size of triangle.
 - Mesh refinement by error.
+
+### 1D Poisson Equation
+
+[ ] Mesh for 3 points.
+[ ] Do K matrix for 3 points.
+[ ] Solve system of equations for element 1 for 3 points.
+[ ] Solve system of equations for element 2 for 3 points.
+[ ] Mesh for any number of points.
+[ ] Add change of coordinates to have local coordinates.
